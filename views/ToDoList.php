@@ -2,7 +2,7 @@
 include_once '../models/qry_tasks.php';
 ?>
 
-<table class="table table-sm">
+<table class="table table-sm table-striped">
   <tr>
     <th>Edit</th>
     <th>Task Name</th>
